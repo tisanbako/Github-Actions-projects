@@ -1,4 +1,4 @@
-name: Tisan's Self Hosted Runner
+name: Tisan Github Action Workflow
 
 on: [push]
 
